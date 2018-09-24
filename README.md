@@ -1,2 +1,2 @@
 # GBC_ROMS
-# some missing Pokemon Roms
+take a look at what you want
